@@ -7,3 +7,4 @@ merging same line
 we are creating conflict
 my name is noorfatima
 we are updating with github
+this class is wondring git and git hub
