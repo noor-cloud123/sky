@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 we are learning github
 123456gooooooo
 
 im learing git hub
+=======
+hello im google.com
+>>>>>>> main
